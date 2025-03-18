@@ -11077,6 +11077,11 @@ html.lenis body {
     inset-inline-start: 0px;
     top: -20px;
   }
+
+	.rs-cta-one .rs-cta-thumb img {
+  width: 350px;
+  height: 350px;
+}
 }
 .rs-cta-one .rs-cta-large-title {
   color: rgba(87, 119, 255, 0.05);
